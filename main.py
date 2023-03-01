@@ -1,6 +1,7 @@
 import discord
 from discord.ext import commands
 import time
+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
 #Some config stuff
 intents = discord.intents.All()
 allowed_IDs = [123456789, 987654321, ...]
